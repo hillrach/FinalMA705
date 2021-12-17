@@ -43,7 +43,7 @@ infosport = pd.merge(infosport, olympic_mean, on='Sport')
 infosport = infosport.drop(columns=['id'])
 infosport = infosport.rename(columns={'link': 'Link'})
 infosport = infosport[['Sport', 'NumMedals', 'NumRanked', 'AvgAge', 'AvgRank', 'Link']]
-infosport.to_pickle('/Users/rachelhill/Desktop/infosport.pkl')
+infosport.to_pickle('infosport.pkl')
 
 event_mean = olympics.groupby(['Sport', 'Event']).mean()
 event_mean = event_mean.drop(columns=['Unnamed: 0', 'Code'])
@@ -66,7 +66,6 @@ event_min = event_min.rename(columns={'Age': 'MinAge'})
 infoevent_multi = pd.merge(event_mean, event_max, on=['Sport', 'Event'])
 infoevent_multi = pd.merge(infoevent_multi, event_count, on=['Sport', 'Event'])
 infoevent_multi = pd.merge(infoevent_multi, event_min, on=['Sport', 'Event'])
-infoevent_multi.to_pickle('/Users/rachelhill/Desktop/infoevent_multi.pkl')
 
 infoevent = infoevent_multi
 infoevent = infoevent.reset_index(level=None, drop=False, inplace=False, col_level=0)
@@ -82,7 +81,7 @@ infoevent = infoevent.rename(columns={'Event': 'EVENT',
                                       'AvgAge': 'AVERAGE ATHLETE AGE', 
                                       'NumRanked': 'NO. RANKED ATHLETES',
                                       'AvgRank': 'AVERAGE ATHLETE RANK'})
-infoevent.to_pickle('/Users/rachelhill/Desktop/infoevent.pkl')
+infoevent.to_pickle('infoevent.pkl')
 
 
 
@@ -95,7 +94,7 @@ olympics['Silver'] = olympics['Silver'].astype('uint8')
 olympics['Bronze'] = olympics['Medal'] == "Bronze"
 olympics['Bronze'] = olympics['Bronze'].astype('uint8')
 
-olympics.to_pickle('/Users/rachelhill/Desktop/olympics.pkl')
+olympics.to_pickle('olympics.pkl')
 
 
 

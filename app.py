@@ -166,6 +166,7 @@ dcc.Tabs([
 
 app.layout = html.Div(children=children_list)
 
+server = app.server
 
 #Populates events and sports dropdowns
 @app.callback(Output('events-dropdown', 'options'),

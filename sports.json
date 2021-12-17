@@ -1,0 +1,241 @@
+{
+    "result": [
+        {
+            "id": 1,
+            "name": "Opening and Closing Ceremonies",
+            "link": "/tokyo-2020/en/schedule/ceremony-schedule#20210723_CER"
+        },
+        {
+            "id": 2,
+            "name": "3x3 Basketball",
+            "link": "/tokyo-2020/en/schedule/3x3-basketball-schedule/"
+        },
+        {
+            "id": 3,
+            "name": "Archery",
+            "link": "/tokyo-2020/en/schedule/archery-schedule/"
+        },
+        {
+            "id": 4,
+            "name": "Artistic Gymnastics",
+            "link": "/tokyo-2020/en/schedule/artistic-gymnastics-schedule"
+        },
+        {
+            "id": 5,
+            "name": "Artistic Swimming",
+            "link": "/tokyo-2020/en/schedule/artistic-swimming-schedule/"
+        },
+        {
+            "id": 6,
+            "name": "Athletics",
+            "link": "/tokyo-2020/en/schedule/athletics-schedule/"
+        },
+        {
+            "id": 7,
+            "name": "Badminton",
+            "link": "/tokyo-2020/en/schedule/badminton-schedule/"
+        },
+        {
+            "id": 8,
+            "name": "Baseball/Softball",
+            "link": "/tokyo-2020/en/schedule/baseball-schedule/"
+        },
+        {
+            "id": 9,
+            "name": "Basketball",
+            "link": "/tokyo-2020/en/schedule/basketball-schedule/"
+        },
+        {
+            "id": 10,
+            "name": "Beach Volleyball",
+            "link": "/tokyo-2020/en/schedule/beach-volleyball-schedule/"
+        },
+        {
+            "id": 11,
+            "name": "Boxing",
+            "link": "/tokyo-2020/en/schedule/boxing-schedule/"
+        },
+        {
+            "id": 12,
+            "name": "Canoe Slalom",
+            "link": "/tokyo-2020/en/schedule/canoe-slalom-schedule/"
+        },
+        {
+            "id": 13,
+            "name": "Canoe Sprint",
+            "link": "/tokyo-2020/en/schedule/canoe-sprint-schedule/"
+        },
+        {
+            "id": 14,
+            "name": "Cycling BMX Freestyle",
+            "link": "/tokyo-2020/en/schedule/cycling-bmx-freestyle-schedule/"
+        },
+        {
+            "id": 15,
+            "name": "Cycling BMX Racing",
+            "link": "/tokyo-2020/en/schedule/cycling-bmx-racing-schedule/"
+        },
+        {
+            "id": 16,
+            "name": "Cycling Mountain Bike",
+            "link": "/tokyo-2020/en/schedule/cycling-mountain-bike-schedule/"
+        },
+        {
+            "id": 17,
+            "name": "Cycling Road",
+            "link": "/tokyo-2020/en/schedule/cycling-road-schedule/"
+        },
+        {
+            "id": 18,
+            "name": "Cycling Track",
+            "link": "/tokyo-2020/en/schedule/cycling-track-schedule/"
+        },
+        {
+            "id": 19,
+            "name": "Diving",
+            "link": "/tokyo-2020/en/schedule/diving-schedule/"
+        },
+        {
+            "id": 20,
+            "name": "Equestrian",
+            "link": "/tokyo-2020/en/schedule/equestrian-schedule/"
+        },
+        {
+            "id": 21,
+            "name": "Fencing",
+            "link": "/tokyo-2020/en/schedule/fencing-schedule/"
+        },
+        {
+            "id": 22,
+            "name": "Football",
+            "link": "/tokyo-2020/en/schedule/football-schedule/"
+        },
+        {
+            "id": 23,
+            "name": "Golf",
+            "link": "/tokyo-2020/en/schedule/golf-schedule/"
+        },
+        {
+            "id": 24,
+            "name": "Handball",
+            "link": "/tokyo-2020/en/schedule/handball-schedule/"
+        },
+        {
+            "id": 25,
+            "name": "Hockey",
+            "link": "/tokyo-2020/en/schedule/hockey-schedule/"
+        },
+        {
+            "id": 26,
+            "name": "Judo",
+            "link": "/tokyo-2020/en/schedule/judo-schedule/"
+        },
+        {
+            "id": 27,
+            "name": "Karate",
+            "link": "/tokyo-2020/en/schedule/karate-schedule/"
+        },
+        {
+            "id": 28,
+            "name": "Marathon Swimming",
+            "link": "/tokyo-2020/en/schedule/marathon-swimming-schedule/"
+        },
+        {
+            "id": 29,
+            "name": "Modern Pentathlon",
+            "link": "/tokyo-2020/en/schedule/modern-pentathlon-schedule/"
+        },
+        {
+            "id": 30,
+            "name": "Rhythmic Gymnastics",
+            "link": "/tokyo-2020/en/schedule/rhythmic-gymnastics-schedule/"
+        },
+        {
+            "id": 31,
+            "name": "Rowing",
+            "link": "/tokyo-2020/en/schedule/rowing-schedule/"
+        },
+        {
+            "id": 32,
+            "name": "Rugby",
+            "link": "/tokyo-2020/en/schedule/rugby-schedule/"
+        },
+        {
+            "id": 33,
+            "name": "Sailing",
+            "link": "/tokyo-2020/en/schedule/sailing-schedule/"
+        },
+        {
+            "id": 34,
+            "name": "Shooting",
+            "link": "/tokyo-2020/en/schedule/shooting-schedule/"
+        },
+        {
+            "id": 35,
+            "name": "Skateboarding",
+            "link": "/tokyo-2020/en/schedule/skateboarding-schedule/"
+        },
+        {
+            "id": 36,
+            "name": "Sport Climbing",
+            "link": "/tokyo-2020/en/schedule/sport-climbing-schedule/"
+        },
+        {
+            "id": 37,
+            "name": "Surfing",
+            "link": "/tokyo-2020/en/schedule/surfing-schedule/"
+        },
+        {
+            "id": 38,
+            "name": "Swimming",
+            "link": "/tokyo-2020/en/schedule/swimming-schedule/"
+        },
+        {
+            "id": 39,
+            "name": "Table Tennis",
+            "link": "/tokyo-2020/en/schedule/table-tennis-schedule/"
+        },
+        {
+            "id": 40,
+            "name": "Taekwondo",
+            "link": "/tokyo-2020/en/schedule/taekwondo-schedule/"
+        },
+        {
+            "id": 41,
+            "name": "Tennis",
+            "link": "/tokyo-2020/en/schedule/tennis-schedule/"
+        },
+        {
+            "id": 42,
+            "name": "Trampoline Gymnastics",
+            "link": "/tokyo-2020/en/schedule/trampoline-gymnastics-schedule/"
+        },
+        {
+            "id": 43,
+            "name": "Triathlon",
+            "link": "/tokyo-2020/en/schedule/triathlon-schedule/"
+        },
+        {
+            "id": 44,
+            "name": "Volleyball",
+            "link": "/tokyo-2020/en/schedule/volleyball-schedule/"
+        },
+        {
+            "id": 45,
+            "name": "Water Polo",
+            "link": "/tokyo-2020/en/schedule/water-polo-schedule/"
+        },
+        {
+            "id": 46,
+            "name": "Weightlifting",
+            "link": "/tokyo-2020/en/schedule/weightlifting-schedule/"
+        },
+        {
+            "id": 47,
+            "name": "Wrestling",
+            "link": "/tokyo-2020/en/schedule/wrestling-schedule/"
+        }
+    ],
+    "success": true,
+    "call": "GetAllSports"
+}
